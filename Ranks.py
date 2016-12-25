@@ -1,4 +1,4 @@
-#!/usr/bin/env python2
+#!/usr/bin/env python3
 # Ranks.py - Launches ranklist of NIT Kurukshetra in any competition on CodeChef in the browser using a contest code from command line or clipboard
 
 import webbrowser
